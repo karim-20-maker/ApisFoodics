@@ -24,7 +24,9 @@ This repository contains code sample using restAssured with Cucumber and Maven  
 
   # **Target** :- 
   
-     # Create a cucumber BDD solution utilising RestAssured framework to accomplish the following. “Make a GET request to colourlovers api http://www.colourlovers.com/api/patterns and write an assertion for <numViews> (from response) to be greater than 4000
+     # Create a cucumber BDD solution utilising RestAssured framework to accomplish the following. 
+     # Make a post request to login with 3 test cases
+     # Extract tooken from valid login request and re use it to get whoami endpoi
      
      
    # **Note** :- 
