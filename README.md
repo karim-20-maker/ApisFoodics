@@ -20,6 +20,7 @@ This repository contains code sample using restAssured with Cucumber and Maven  
      # CMD ====>  mvn clean test   from the level of project Ex (cd Downloads/ ApisFoodics)
      # or we can run TestRunner class    <cucumberOption.TestRunner>
      # we will find cucumber HTML Reporort created inside target/Reports/cucumber/html.html
+     # also i attached screenshot with latest run report
 
   # **Target** :- 
   
